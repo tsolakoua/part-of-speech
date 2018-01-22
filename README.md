@@ -4,4 +4,4 @@
 - Tagging part-of-speech using custom tags map (default_pos.py) with SpaCy
 
 ## To do 
-- Read training data from files
+- Reading training data from files
