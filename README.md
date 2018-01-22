@@ -1,7 +1,7 @@
-# Part of speech tagging
+# Part-of-speech tagging
 
 - Tagging part-of-speech using custom (pos.py) with SpaCy
 - Tagging part-of-speech using custom tags map (default_pos.py) with SpaCy
 
-## ToDo
+## To do 
 - Read training data from files
